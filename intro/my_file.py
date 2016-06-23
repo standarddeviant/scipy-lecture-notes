@@ -1,2 +1,2 @@
-s = 'Hello World!'
+s = 'Hello Auditorium!'
 print(s)
